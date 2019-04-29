@@ -24,7 +24,7 @@ bicicletas que existen en el mundo. Usando la terminología de la programación
 orientada a objetos, diremos que mi bicicleta es una instancia de la clase de objetos
 conocida como bicicletas. Por lo tanto `Biciletas`(en plurar) seria la clase.
 
-![clases](img\clases-en-Java3-1024x540.png)
+![clases](img/clases-en-Java3-1024x540.png)
 
 >Es importante tener claro que una clase es una abstracción lógica.
 
@@ -187,7 +187,7 @@ El bucle while realiza la operación del código hasta que la condición sea ver
 
 En el siguiente flujograma podemos ver como se ejecutan las accciones.
 
-![while](img\bucle_while.png)
+![while](img/bucle_while.png)
 
 Sintaxis:
 
